@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#424242</color>
+    <color name="list_background">#ffffffff</color>
+    <color name="list_background_pressed">#F8BBD0</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+
+    <color name="primary">#FF5252</color>
+    <color name="primary_dark">#EF5350</color>
+    <color name="accent">#2196F3</color>
+    <color name="back_list">#FFEBEE</color>
+</resources>
